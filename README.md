@@ -926,7 +926,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 
 <br><hr><br>
 
-#### Data Coffee [Site](https://datacoffee.link/), [RSS](https://anchor.fm/s/5bde2c58/podcast/rss), [Telegram](https://t.me/datacoffee), [Apple Podcasts](https://podcasts.apple.com/podcast/data-coffee/id1575312052), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==), [Amazon](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) 
+#### Data Coffee [Site](https://datacoffee.link/), [RSS](https://anchor.fm/s/5bde2c58/podcast/rss), [Telegram](https://t.me/datacoffee), [Apple Podcasts](https://podcasts.apple.com/podcast/data-coffee/id1575312052), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==), [Amazon](https://open.spotify.com/show/0kPnTcLspN1NO5eOHKSufE?si=605c6be824214e99) 
 
 Еженедельный подкаст о данных. Мнения экспертов и опыт в получении, хранении, обработке, визуализации данных и принятии решений на их основе.
 
@@ -935,4 +935,14 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Alex                        | [@data_diving](https://www.t.me/data_diving) |
 | Dina                        | [@aniiid](https://www.t.me/aniiid)           |
 | Mak                         | [@tuvahor](https://www.t.me/tuvahor)         |
+
+<br><hr><br>
+
+#### Тысяча фичей [Site](https://pc.st/1648026802), [RSS](https://feeds.libsyn.com/440928/rss), [Telegram](https://t.me/tfeat), [Apple Podcasts](https://podcasts.apple.com/am/podcast/%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B0-%D1%84%D0%B8%D1%87%D0%B5%D0%B9/id1648026802), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ0MDkyOC9yc3M=), [Spotify](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) 
+
+Подкаст от инженера, который любит свое дело. Это инди-подкаст о вещах, с которыми сталкивается каждый разработчик: слепая печать, дизайн API, паттерны и многое другое.
+
+| Ведущие                     | telegram                                     |
+| :-------------------------- | -------------------------------------------- |
+| Sasha                       | [@alexandr_phmv](https://twitter.com/alexandr_phmv) |
 
